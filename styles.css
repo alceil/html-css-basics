@@ -2,10 +2,15 @@ h1
 {
     color: orange;
     background-color: slategrey;
-    font-size: 20px;
+    font-size: 40px;
+    text-decoration: underline;
+    font-family: Arial;
+    text-align: left;
 }
 p
 {
     color: slategrey;
-
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 3px;
 }
