@@ -19,4 +19,6 @@ p
 ul
 {
     border-width: 3px;
+    border-style:solid;
+    border-color:crimson ;
 }
