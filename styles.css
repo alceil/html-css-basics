@@ -6,6 +6,7 @@ div{
 }
 span
 {
-    
-    
+   display: inline-block;
+    padding: 20px;
+    margin: 20px;
 }
