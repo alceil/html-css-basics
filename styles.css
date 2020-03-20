@@ -1,28 +1,11 @@
-h1
-{
-    color: orange;
-    background-color: slategrey;
-    font-size: 40px;
-    text-decoration: underline;
-    font-family: Arial;
-    text-align: left;
+div{
+    border: 2px solid crimson;
+    padding: 20px;
+    margin: 30px;
+    /* display: block; */
 }
-p
+span
 {
-    color: slategrey;
-    text-align: right;
-    line-height: 30px;
-    letter-spacing: 3px;
-    column-count: 3;
-    column-gap: 190px;
-}
-ul
-{
-    border-bottom: 4px solid crimson;
-    border-left: 8px dashed crimson;
-}
-li
-{
-    list-style: none;
-    text-shadow: 2px 2px lightgray;
+    
+    
 }
