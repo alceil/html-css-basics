@@ -18,7 +18,8 @@ p
 }
 ul
 {
-    border-width: 3px;
+    /* border-width: 3px;
     border-style:solid;
-    border-color:crimson ;
+    border-color:crimson ; */
+    border-bottom: 3px dotted crimson;
 }
