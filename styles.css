@@ -18,8 +18,11 @@ p
 }
 ul
 {
-    /* border-width: 3px;
-    border-style:solid;
-    border-color:crimson ; */
-    border-bottom: 3px dotted crimson;
+    border-bottom: 4px solid crimson;
+    border-left: 8px dashed crimson;
+}
+li
+{
+    list-style: none;
+    text-shadow: 2px 2px lightgray;
 }
