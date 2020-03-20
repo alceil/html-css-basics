@@ -13,4 +13,10 @@ p
     text-align: right;
     line-height: 30px;
     letter-spacing: 3px;
+    column-count: 3;
+    column-gap: 190px;
+}
+ul
+{
+    border-width: 3px;
 }
