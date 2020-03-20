@@ -1,12 +1,8 @@
-div{
-    border: 2px solid crimson;
-    padding: 20px;
-    margin: 30px;
-    /* display: block; */
-}
-span
+p.error
 {
-   display: inline-block;
-    padding: 20px;
-    margin: 20px;
+color: crimson;
+}
+p.success
+{
+color: green;
 }
