@@ -8,5 +8,20 @@
 
 }
 .banner .welcome{
+    background-color: orange;
     position: absolute;
+    color: white;
+    padding: 30px;
+    left: 0;
+    top: 200px;
 }
+.banner h2
+{
+    font-size: 80px;
+
+}
+.banner h2 span
+{
+    font-size: 1.3em;
+
+
