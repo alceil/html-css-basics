@@ -1,4 +1,10 @@
-
+header
+{
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+    z-index: 1;
+}
 .banner{
     position: relative;
 }
