@@ -4,6 +4,13 @@ header
     padding: 20px;
     text-align: center;
     z-index: 1;
+    top: 0px;
+    left: 0px;
+}
+header h1
+{
+    color: white;
+    border: 8px solid white;
 }
 .banner{
     position: relative;
@@ -30,4 +37,4 @@ header
 {
     font-size: 1.3em;
 
-
+}
