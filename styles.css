@@ -1,8 +1,26 @@
-p.error
+/* p.error
 {
 color: crimson;
 }
 p.success
 {
 color: green;
+}
+p.succeess.feedback
+{
+    border: 1px dashed crimson;
+
+}
+/* div.error
+{
+    color: purple;
+
+} */ 
+a[href = "https://www.thenetninja.co.uk/"]
+{
+    background-color: purple;
+    color: white;
+    text-decoration: none;
+    
+
 }
