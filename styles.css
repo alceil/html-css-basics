@@ -11,6 +11,9 @@ header h1
 {
     color: white;
     border: 8px solid white;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 36px;
 }
 .banner{
     position: relative;
@@ -36,5 +39,33 @@ header h1
 .banner h2 span
 {
     font-size: 1.3em;
+
+}
+nav
+{
+    background-color: white;
+    padding: 20px;
+}
+nav ul
+{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;    
+}
+nav li a
+{
+    text-decoration: none;
+    color: grey;
+
+}
+nav li a.join
+{
+    color: red;
+}
+nav li
+{
+    width:25% ;
+    display: inline-block;
+    font-size: 25px;
 
 }
