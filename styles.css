@@ -1,16 +1,12 @@
-div
+
+.banner{
+    position: relative;
+}
+.banner img
 {
-    color: violet;
-    border: 1px solid green;
-    margin: 40px;
-    font-weight: bold;
+    min-width: 100%;
 
 }
-div p{
-    border: inherit;
-    margin: inherit;
-    color: crimson;
-}
-p{
-    color: orange;
+.banner welcome{
+    position: absolute;
 }
