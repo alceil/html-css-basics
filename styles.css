@@ -167,3 +167,8 @@ form input:valid
 {
     border:3px solid #71d300
 }
+article p::first-line
+{
+    font-weight: bold;
+    font-size: 1.2em;
+}
