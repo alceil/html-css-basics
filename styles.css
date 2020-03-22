@@ -172,3 +172,17 @@ article p::first-line
     font-weight: bold;
     font-size: 1.2em;
 }
+section.join p::first-letter{
+    font-size: 1.2em;
+    font-weight: bold;
+
+}
+p::selection{
+background-color: #F63232;
+color: white;
+}
+p::after
+{
+    content: '...';
+
+}
